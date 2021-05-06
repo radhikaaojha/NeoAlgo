@@ -128,6 +128,7 @@ _add list here_
 - [Happy Number](math/happy_number.c)
 - [Automorphic Number](math/automorphic_no.c)
 - [Karpekar Number](math/Kaprekar_no.c)
+- [Tower Of Hanoi](math/towerOfHanoi.c)
 
 ## Operating System
 
